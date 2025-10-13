@@ -54,7 +54,7 @@ const Merged9 = () => {
               Authors: S. O. Olorunfemi, E. E. Okoko, & K. T. Gbadamosi.
             </p>
             <br />
-            <h4> Introduction: Since immemorial, mobility across geographical space has been integral to human activity for
+            <h4> <h4 className= "font-bold">Introduction:</h4> Since immemorial, mobility across geographical space has been integral to human activity for
 leisure, comfort, and meeting other needs. People's needs are closely reflected in social,
 political, and economic interaction......
 </h4>
@@ -112,7 +112,7 @@ political, and economic interaction......
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 462 KB • PDF format</p>
           </div>
         </div>
       </div>

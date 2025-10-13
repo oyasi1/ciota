@@ -54,7 +54,7 @@ const Merged8 = () => {
               Authors: I. C. Ogwude, U. S. Ogwude and S. B. Balogun.
             </p>
             <br />
-            <h4> Introduction: Road crash rates in developing countries are about 3-4 times higher than in Western
+            <h4> <h4 className= "font-bold">Introduction:</h4> Road crash rates in developing countries are about 3-4 times higher than in Western
 Europe and North America. The severity of road crashes, measured in terms of the number
 of persons killed in every 100 crashes, has remained high over the years, representing a
 gloomy picture of transport usage. Over 80 per cent of all crashes can be attributed to
@@ -114,7 +114,7 @@ human causes.....
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 326 KB • PDF format</p>
           </div>
         </div>
       </div>

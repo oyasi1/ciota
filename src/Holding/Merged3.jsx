@@ -54,7 +54,7 @@ const Merged3 = () => {
               Authors: I. F. Abdul-Azeez, S. G. Odewumi, C. O. Asenime and B. O. Kumolu Johnson
             </p>
             <br />
-            <h4> Introduction: Elections are the cornerstone of democracy and pivotal to the quality of a country’s governance and
+            <h4> <h4 className= "font-bold">Introduction:</h4> Elections are the cornerstone of democracy and pivotal to the quality of a country’s governance and
 democratic development......
 </h4>
           </div>
@@ -111,7 +111,7 @@ democratic development......
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 324 KB • PDF format</p>
           </div>
         </div>
       </div>

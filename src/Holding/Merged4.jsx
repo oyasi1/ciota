@@ -7,7 +7,7 @@ const Merged4 = () => {
   
   // PDF file in public folder
   const pdfUrl = '/ilovepdf_merged 3.pdf';
-  const fileName = 'Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigeria Manufacturing Industry.pdf';
+  const fileName = 'Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigerian Manufacturing Industry.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,7 +46,7 @@ const Merged4 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigeria Manufacturing Industry.
+              Impact of Logistics Out-sourcing Activities on the Organisational Performance of Nigerian Manufacturing Industry.
             </h2>
             <h4>Vol. 1, No. 1, June 2024</h4>
 
@@ -54,7 +54,7 @@ const Merged4 = () => {
               Authors: C. U. Akpudo and Yoade Temitayo.
             </p>
             <br />
-            <h4> Introduction: Logistics, which involves the flow of goods and services from the point of origin to the point
+            <h4> <h4 className= "font-bold">Introduction:</h4> Logistics, which involves the flow of goods and services from the point of origin to the point
 of consumption, is part of supply chain management, whose core objective is to plan and
 execute supply chain activities to meet customer needs.......
 </h4>
@@ -112,7 +112,7 @@ execute supply chain activities to meet customer needs.......
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 400 KB • PDF format</p>
           </div>
         </div>
       </div>

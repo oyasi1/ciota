@@ -9,6 +9,9 @@ import Merged6 from './Holding/Merged6';
 import Merged7 from './Holding/Merged7';
 import Merged8 from './Holding/Merged8';
 import Merged9 from './Holding/Merged9';
+import Editoria from './Editoria';
+import Footer from './Footer';
+
 const App = () => {
   return (
     <main>
@@ -23,6 +26,8 @@ const App = () => {
      <Merged7 />
      <Merged8 />
      <Merged9 />
+     <Editoria />
+     <Footer />
     </main>
   );
 };

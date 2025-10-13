@@ -6,7 +6,7 @@ const DocPdf = () => {
   
   // PDF file in public folder
   const pdfUrl = '/ilovepdf_merged 0.pdf';
-  const fileName = 'Perceived Effects of Transportation Land Use on Mobility Crisis in Selected Nigerian Cities.pdf';
+  const fileName = 'Perceived Effects of Transportation, Land Use on Mobility Crisis in Selected Nigerian Cities.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -45,7 +45,7 @@ const DocPdf = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Perceived Effects of Transportation Land Use on Mobility Crisis in Selected Nigerian Cities.
+              Perceived Effects of Transportation, Land Use on Mobility Crisis in Selected Nigerian Cities.
             </h2>
             <h4>Vol. 1, No. 1, June 2024</h4>
 
@@ -53,7 +53,7 @@ const DocPdf = () => {
               Authors: A. A. Akanmu, U. O. Salisu and S. M. Sanni
             </p>
             <br />
-            <h4> Introduction: Land use constitutes a fundamental aspect of spatial development within human settlements,
+            <h4> <h4 className= "font-bold">Introduction:</h4> Land use constitutes a fundamental aspect of spatial development within human settlements,
 involving transforming land from its natural state or one form to another.....
 </h4>
           </div>
@@ -110,7 +110,7 @@ involving transforming land from its natural state or one form to another.....
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 368 KB • PDF format</p>
           </div>
         </div>
       </div>

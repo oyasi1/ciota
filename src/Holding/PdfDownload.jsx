@@ -52,7 +52,7 @@ const PdfDownload = () => {
               Authors: U. O. Salisu, S. G. Odewumi and F. I. AbdulAzeez.
             </p>
             <br />
-            <h4> Introduction: Cities and every other community worldwide rely on transportation systems to perform
+            <h4> <h4 className= "font-bold">Introduction:</h4> Cities and every other community worldwide rely on transportation systems to perform
 mobility and accessibility functions such as moving materials for manufacturing goods,
 distributing finished goods to consumers, locating and connecting places of work, market,
 business activities, leisure, religion, medical activities, and home...
@@ -111,7 +111,7 @@ business activities, leisure, religion, medical activities, and home...
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 483 KB • PDF format</p>
           </div>
         </div>
       </div>

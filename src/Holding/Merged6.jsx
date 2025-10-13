@@ -54,7 +54,7 @@ const Merged6 = () => {
               Authors: O. B. Sidiq, M. S. Stephens, C. U. Akpudo and F. O. Kanyio.
             </p>
             <br />
-            <h4> Introduction: The historical trajectory of air travel in Nigeria dates back to the 1925 landing of an aircraft
+            <h4> <h4 className= "font-bold">Introduction:</h4> The historical trajectory of air travel in Nigeria dates back to the 1925 landing of an aircraft
 in Kano from Egypt, which has shaped the aviation sector's role in the global and Nigerian
 economies......
 </h4>
@@ -112,7 +112,7 @@ economies......
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 269 KB • PDF format</p>
           </div>
         </div>
       </div>

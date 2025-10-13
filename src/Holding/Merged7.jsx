@@ -7,7 +7,7 @@ const Merged7 = () => {
   
   // PDF file in public folder
   const pdfUrl = '/ilovepdf_merged 6.pdf';
-  const fileName = 'Rail Passenger Satisfaction Factors: the Mediating Effect of Word of Mouth.pdf';
+  const fileName = 'Rail Passenger Satisfaction Factors: The Mediating Effect of Word of Mouth.pdf';
 
   const handleDownload = () => {
     setIsDownloading(true);
@@ -46,7 +46,7 @@ const Merged7 = () => {
           {/* Content */}
           <div className="mt-4 text-center">
             <h2 className="text-xl sm:text-2xl font-bold text-gray-800">
-              Rail Passenger Satisfaction Factors: the Mediating Effect of Word of Mouth.
+              Rail Passenger Satisfaction Factors: The Mediating Effect of Word of Mouth.
             </h2>
             <h4>Vol. 1, No. 1, June 2024</h4>
 
@@ -54,7 +54,7 @@ const Merged7 = () => {
               Authors: M. Olayiwola, M. G. Seyed, and R. O. Olorunnimbe.
             </p>
             <br />
-            <h4> Introduction: Effective transportation services can fulfil the needs of the entire population. According to a
+            <h4> <h4 className="font-bold">Introduction:</h4> Effective transportation services can fulfil the needs of the entire population. According to a
 2015 study by the African Development Bank, rail transportation is expected to play an
 increasingly important role in delivering services over long distances. Railways are more
 effective in public transport networks for inter-city and metropolitan contexts than other
@@ -114,7 +114,7 @@ modes of transportation....
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 287 KB • PDF format</p>
           </div>
         </div>
       </div>

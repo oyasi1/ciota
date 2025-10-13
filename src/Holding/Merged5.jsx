@@ -54,7 +54,7 @@ const Merged5 = () => {
               Authors: A. O. Adeniran, M. S. Stephens, and I. Njoku.
             </p>
             <br />
-            <h4> Introduction: Nigeria’s airline market is a market with a population of 200 million, shared by 23 domestic
+            <h4> <h4 className= "font-bold">Introduction:</h4> Nigeria’s airline market is a market with a population of 200 million, shared by 23 domestic
 airlines (NCAA, 2022) such as Aero Contractors, Air Peace, Allied Air, Arik Air, Azman Air,
 Dana Air, First Nation, Green Africa, Ibom Air, Kabo Air, Max Air, Overland Airways,
 United Air among others.....
@@ -113,7 +113,7 @@ United Air among others.....
           
           {/* File info */}
           <div className="mt-4 text-center text-sm text-gray-500">
-            <p>File size: 382 KB • PDF format</p>
+            <p>File size: 494 KB • PDF format</p>
           </div>
         </div>
       </div>
