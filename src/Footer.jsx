@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="absolute end-4 top-4 sm:end-6 sm:top-6 lg:end-8 lg:top-8">
       <a
         className="inline-block rounded-full bg-teal-600 p-2 text-white shadow-sm transition hover:bg-teal-500 sm:p-3 lg:p-4 dark:bg-gray-700 dark:text-teal-300 dark:hover:bg-gray-600"
-        href="#MainContent"
+        href="/"
       >
         <span className="sr-only">Back to top</span>
 
@@ -90,7 +90,7 @@ const Footer = () => {
     </div>
 
     <p className="mt-12 text-center text-sm text-gray-500 lg:text-right dark:text-gray-400">
-      Copyright &copy; 2025. All rights reserved.
+      Copyright &copy; 2025.oyasifrank@gmail.com All rights reserved.
     </p>
   </div>
 </footer>
