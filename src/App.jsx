@@ -1,6 +1,6 @@
 import Navbar from './Navbar';
 import PdfDownload from './Holding/PdfDownload';
-import Intro from './Intro';
+import Intro from './intro';
 import DocPdf from './Holding/DocPdf';
 import Merged3 from './Holding/Merged3';
 import Merged4 from './Holding/Merged4';
