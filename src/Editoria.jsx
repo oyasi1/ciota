@@ -1,24 +1,23 @@
 const Editoria = () => {
     const editorialTeam = [
         { name: "Prof. I. C. Ogwude", role: "Editor-in-Chief" },
-        { name: "Prof. M. S. Stephens (FUTA, Ondo)", role: "Associate Editor" },
+        { name: "Prof. M. S. Stephens (FUTA, Akure)", role: "Associate Editor" },
         { name: "Dr. A. A. Akanmu (Oke-Ogun, Oyo)", role: "Managing Editor" },
-        { name: "Prof. Umar Adam Katsayal (Fed. Uni. Transport, Daura)", role: "Editor" },
-        { name: "Prof. B. A. Badejo (Lasu, Lagos)", role: "Editor" },
-        { name: "Prof. C. C. Ibe (FUTO)", role: "Editor" },
+        { name: "Prof. Umar Adam (Fed. Uni. Transportation, Daura)", role: "Editor" },
+        { name: "Prof. Bamidele A. Badejo (O. O. U, Ago-Iwoye)", role: "Editor" },
+        { name: "Prof. Calistus C. Ibe (FUTO)", role: "Editor" },
         { name: "Prof. E. E. Okoko (Uni. Calabar)", role: "Editor" },
-        { name: "Dr. K. Opeifa", role: "Editor" },
     ];
 
     const boardOfAdvisers = [
-        { name: "Dr. Segun Obayendo", role: "Chairman" },
-        { name: "Prof. Samuel Odewumi"},
-        { name: "Prof. O. I. Akpoghomeh"},
-        { name: "M.D. NRC, Dr. Kayode Opeifa"},
-        { name: "DG. NCAA, Captain C. O. Najoma"},
-        { name: "MD.NPA, Dr. Abubakar Dantsho"},
-        { name: "MD.FAAN, Mrs. O. O. Kuku"},
-        { name: "DG. NIMASA, Dr. D. Mobereola" }
+        { name: "Dr. Segun Ochuko Obayendo", role: "Chairman" },
+        { name: "Prof. Samuel G. Odewumi"},
+        { name: "Prof. Osi. I. Akpoghomeh"},
+        { name: "Dr. Kayode Opeife  (Managing Director/CEO. NRC)"},
+        { name: "Captain Chris Najoma (Director General/CEO. NCAA)"},
+        { name: "Dr. Abubakar Dantsho (Managing Director, NPA)"},
+        { name: "Mrs. Olubunmi Kuku (Managing Director/CEO. FAAN) "},
+        { name: "Dr. Dayo Mobereola (Director General/CEO. NIMASA)" }
     ];
 
     return (
